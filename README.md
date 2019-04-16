@@ -1,4 +1,4 @@
-# Movie-Recommendation-using- Apache Spark
+# Movie Recommender System using Apache Spark
 # Abstract
 The goal  of this project is to develop a collaborative filtering model that predicts the rating of a specific user rating given history of other ratings.
 The performance of the results are evaluated using Root-Mean-Square-Error (RMSE)
